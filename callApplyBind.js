@@ -9,4 +9,3 @@ function greet(place) {
   
   const greetFrom = greet.bind(person);
   greetFrom("Copenhagen"); // Lin from Copenhagen
-  
